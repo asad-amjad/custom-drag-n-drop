@@ -377,7 +377,8 @@ function () {
       }
 
       if (this.window.__isReactDndBackendSetUp) {
-        throw new Error('Cannot have two HTML5 backends at the same time.');
+        // throw new Error('Cannot have two HTML5 backends at the same time.');
+        console.log("working")
       }
 
       this.window.__isReactDndBackendSetUp = true;

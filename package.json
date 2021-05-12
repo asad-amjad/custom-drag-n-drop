@@ -1,5 +1,5 @@
 {
-  "name": "react-dnd-html5-backend",
+  "name": "custom-drag-n-drop",
   "version": "10.0.2",
   "description": "HTML5 backend for React DnD",
   "main": "./dist/cjs/index.js",
